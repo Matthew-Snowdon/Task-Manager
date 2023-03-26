@@ -1,0 +1,7 @@
+The total number of users: 3
+The total number of tasks: 4
+Total number of tasks assigned to current user: 2
+The percentage of total number of tasks assigned to current user: 50.0%
+The percentage of completed tasks assigned to the current user: 50.0%
+The percentage of uncompleted tasks assigned to the current user: 0.0%
+The percentage of uncompleted tasks, that are overdue, assigned to the current user: 0.0%
